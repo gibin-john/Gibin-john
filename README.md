@@ -1,5 +1,5 @@
 # Hello, I'm Gibin John
-<a href="linkedin.com/in/gibinkjohn"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/gibinkjohn?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 Experienced in incident response, threat detection, and SOC operations. Passionate about building secure environments and enhancing threat visibility.
