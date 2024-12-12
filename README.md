@@ -56,5 +56,5 @@ To leverage my expertise in Security Operations Center (SOC) processes, includin
 </div>
 
 ## Projects
-- a href="https://github.com/gibin-john/Detection-Lab">Detection Lab </a>
+- <a href="https://github.com/gibin-john/Detection-Lab">Detection Lab </a>
 - SOC Automation Project
