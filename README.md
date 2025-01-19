@@ -23,6 +23,7 @@ To leverage my expertise in Security Operations Center (SOC) processes, includin
 
 ### SIEM
 <div>
+    <img src="https://img.shields.io/badge/-Wazuh-4C9E3D?&style=for-the-badge&logo=Wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     
